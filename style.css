@@ -1,0 +1,66 @@
+*{
+    background-color: black;
+}
+.container{
+
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(236, 25, 10);
+    padding: 20px;
+    border: solid 5px;
+    border-radius: 10px;
+    border-color: rgb(228, 228, 76);
+
+
+
+}
+
+h1{
+    font-size: 20px;
+    background-color:  rgb(236, 25, 10);
+    color: white; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    background-color: white;
+    
+
+    width: 80%;
+    display: block;
+    padding: 5px;
+
+    box-sizing: border-box;
+
+    margin-bottom: 5px;
+
+}
+
+button {
+
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+button:hover{
+    background:rgb(216, 205, 49);
+    color: black;
+}
+
+#resultado{
+    background-color:rgb(236, 25, 10) ;
+    color: white;
+    font-weight: bolder;
+}
+
+p{
+    background-color:rgb(236, 25, 10) ;
+    color: white;
+    font-weight: bolder;
+}
